@@ -140,12 +140,6 @@ Regional-Sales-Performance-Analysis
 │   ├── Architecture.pdf
 │   └── Presentation.pdf
 │
-├── Screenshots
-│   ├── Dashboard1.png
-│   ├── Dashboard2.png
-│   ├── Dashboard3.png
-│   └── Dashboard4.png
-│
 └── README.md
 ```
 
